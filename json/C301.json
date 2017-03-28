@@ -85,7 +85,7 @@
 			"Jdbc Drivers",
 			"Steps to connect to Database",
 			"Connectivity with Mysql,Oracle",
-			"Connectivity with Access without DSN,
+			"Connectivity with Access without DSN",
 			"DriverManager",
                         "Connection interface",
 			"Statement interface",
@@ -101,6 +101,7 @@
 			"Transaction Management",
 			"Batch Processing",
 			"JDBC New Features"
+			
 		]
 	}
 ]
