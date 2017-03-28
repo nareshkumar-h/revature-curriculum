@@ -10,7 +10,13 @@
 			"A First Java Program",
 			"Compiling and Interpreting Applications",
 			"The JDK Directory Structure",
-			"Using Eclipse"
+			"Using Eclipse",
+			"Object and Class",
+			"Encapsulation",
+			"Inheritance(IS-A)",
+			"Aggregation and Composition(HAS-A)"
+			"Polymorphism",
+			"Abstraction"
 		]
 	},
 	{
@@ -19,67 +25,82 @@
 		[
 			"Primitive Datatypes",
 			"Declarations",
-			"Numeric Literals",
-			"Character Literals",
-			"Variable Names",
+			"Literals",
+		        "Naming Convention",
+			"Variable and Data Type",
+			"Control Flow Statements",
 			"String formatting and Parsing",
-			"String Literals",
+			"StringBuffer,StringBuilder",
+			"StringTokenizer",
 			"Arrays",
 			"Non-Primitive Datatypes",
-			"The Dot Operator",
-			"final keyword"
+			"Command Line Arguments",
+			"final keyword",
+			"Methods,Defining and Calling methods",
+			"static methods",
+			"toString method",
+			"Casting and instanceOf",
+			"Operator and Expressions"
 		]
 	},
 
 	{
-		"name": "Methods",
+		"name": "Exception Handling",
 		"topics": 
 		[
-			"Methods",
-			"Defining Methods",
-			"Calling Methods",
-			"Method Parameters Scope",
-			"Static Methods"
+			"Exception Handling : What and Why? ",
+			"try and catch block ",
+			"Multiple catch block",
+			"Custom Exception",
+			"throw and throws keyword",
+			"Exception Handling with Method Overriding"
 		]
 	},
 
 	{
-		"name": "Operators and Expressions",
+		"name": "Collections",
 		"topics": 
 		[
-			"Expressions",
-			"Operators and Expressions",
-			"Arithmetic Operators",
-			"Assignment Operator",
-			"Relational Operators",
-			"Logical Operators",
-			"Increment and Decrement Operators",
-			"Operate-Assign Operators (+=, etc.)",
-			"The Conditional Operator",
-			"Implicit Type Conversions",
-			"Operator Precedence",
-			"The Cast Operator",
-			"Strict typing",
-			"Type conversion"
+			"Collection Interface",
+			"List ,Set Interfaces and its implementation",
+			"Map Interface and its implementation",
+			"Legacy Collections",
+			"Queue,Deque and Enque and its implementation",
+			"Wrapper classes",
+			"Object Ordering",
+			"Aggregate Operations",
+			"HashTable implementation",
+			"Sorting and Searching,Comparators",
+			"Date ,Time and LocalTime",
+			"Calendar and other Utilities",
+			"Iterator,ListIterator",
+			"SortedSet"
 		]
 	},
 
 	{
-		"name": "Control Flow Statements",
+		"name": "Java Database Connectivity",
 		"topics": 
 		[
-			"Statements",
-			"Control Flow Statements",
-			"Data types and Variables",
-			"Conditional (if) Statements",
-			"Adding an else if",
-			"Conditional (switch) Statements",
-			"while and do-while Loops",
-			"for Loops",
-			"A for Loop Diagram",
-			"The continue Statement",
-			"Enhanced for Loop",
-			"The break Statement"
+			"Jdbc Drivers",
+			"Steps to connect to Database",
+			"Connectivity with Mysql,Oracle",
+			"Connectivity with Access without DSN,
+			"DriverManager",
+                        "Connection interface",
+			"Statement interface",
+			"ResultSet interface",
+			"PreparedStatement",
+			"ResultSetMetaData",
+			"DatabaseMetaData",
+			"Storing image",
+			"Retrieving image",
+			"Storing file",
+			"Retrieving file",
+			"Stored procedures and functions",
+			"Transaction Management",
+			"Batch Processing",
+			"JDBC New Features"
 		]
 	}
 ]
