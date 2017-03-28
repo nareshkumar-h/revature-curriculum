@@ -2,7 +2,7 @@
 "title": "Java Programming",
 "modules" :[
 	{
-		"name": "Introduction of Java",
+		"name":"OOPS",
 		"topics": 
 		[
 			"What is Java?",
