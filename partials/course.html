@@ -5,7 +5,7 @@
 <span id="modules" ng-repeat="module in modules">
 <p><font color='blue'> <b> Unit {{$index +1 }}: {{module.name}} </b></font></p>
 <div ng-repeat="topic in module.topics">
-<p>&nbsp;&nbsp;&nbsp;&nbsp;Topic {{ $index+1}}: {{topic}}</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;{{topic}}</p>
 </div>
 {{books}}
 <div ng-show="books.length > 0">

@@ -10,7 +10,7 @@
 			"Understand AWS CloudFront service",
 			"Understand AWS Route53 service", 
 			"Understand AWS ElasticBeanStalk service",
-			"Understand AWS RDS service
+			"Understand AWS RDS service"
 		]
 	},
 	{
@@ -24,7 +24,6 @@
 			"Understand AWS CloudFormation template"
 		]
 	},
-
 	{
 		"name": "Introduction to Bigdata",
 		"topics": 
@@ -32,7 +31,6 @@
 		"Introduction to Big data and Hadoop Ecosystem","HDFS and YARN", "MapReduce and Scoop"
 		] 
 	},
-
 	{
 		"name": "Introduction to Hive and Pig",
 		"topics": 
