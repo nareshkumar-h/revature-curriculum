@@ -16,16 +16,10 @@
 			"Responsive Web Design",
 			"Form Elements,Input types and Input Attributes",
 			"Html 5 browser support",
-			"HTML Graphics,Google Maps",
-			"Canvas,Svg",
+			"HTML Graphics,Google Maps,Canvas,Svg",
 			"Media,Video,Audio,plugins and Youtube",
-			"HTML APIs",
-                        "HTML Geolocation",
-			"HTML Drag/Drop",
-			"HTML Local Storage",			
-			"HTML App Cache",
-			"HTML Web Workers",
-			"HTML SSE"
+			"HTML APIs,Geolocation,Drag/Drop,Local Storage,App Cache,Web Workers,SSE"
+                        
 			
 		]
 	},
@@ -36,8 +30,7 @@
 		[
 			"CSS Selectors",
 			"Three Ways to Insert CSS",
-			"CSS Backgrounds",
-			"CSS Borders", 
+			"CSS Borders and Backgrounds", 
 			"CSS Margins CSS Padding CSS Height/Width",
 			"CSS Box Model CSS Outline CSS Text CSS Fonts",
 			"CSS Icons CSS Links CSS Lists CSS Tables CSS Display",
@@ -51,8 +44,8 @@
 			"2D Transforms CSS3 3D Transforms CSS3 Transitions",
 			"CSS3 Animations CSS3 Images CSS3 Buttons CSS3 Pagination",
 			"CSS3 Multiple Columns CSS3 User Interface CSS3 Box Sizing",
-			"CSS3 Flexbox CSS3 Media Queries CSS3 MQ Examples",
-			"CSS Responsive"
+			
+			
 			
 		]
 	},
