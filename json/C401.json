@@ -2,16 +2,26 @@
 "title": "title",
 "modules" :[
 	{
-		"name": "",
+		"name": "Principles of adaptive project framework",
 		"topics": 
 		[
+			"Iterative Learning Process",
+			"A view of sunk cost effect",
+			"Elements of project",
+			"Scope of management in agile project",
+			"Actions initiated by the project manager",
+			"Agile manifesto"
+			
 			
 		]
 	},
 	{
-		"name": "",
+		"name": "Agile software management",
 		"topics": 
 		[
+			"Features of agile software management",
+			"Basic Strategy of agile",
+			"Adaption for change",
 			
 		]
 	},
