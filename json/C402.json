@@ -1,17 +1,31 @@
 {
-"title": "title",
+"title": "Enterprise Programming Fundamentals",
 "modules" :[
 	{
-		"name": "",
+		"name": "Spring Basics",
 		"topics": 
 		[
+			"Dependency injection",
+			"IOC Container",
+			"Constructor Injection",
+			"Setter Injection",
+			"Autowiring",
+			"BeanFactory and Application Context",
+			"Factory method"
+		
+		
 			
 		]
 	},
 	{
-		"name": "",
+		"name": "Spring AOP",
 		"topics": 
 		[
+			
+			"Basic Of Aspects Oriented Programming",
+			"Creation of Aspects",
+			"Advice,PointCut,JointPoint",
+			""
 			
 		]
 	},
