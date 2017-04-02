@@ -25,16 +25,20 @@
 			"Basic Of Aspects Oriented Programming",
 			"Creation of Aspects",
 			"Advice,PointCut,JointPoint",
-			""
+			"Introduction and mixins",
+			"CI and SI"
 			
 		]
 	},
 
 	{
-		"name": "",
+		"name": "JdbcTemplate and Spring ORM",
 		"topics": 
 		[
-			
+			"ResultSetExtractor",
+			"RowMapper",
+			"SimpleJDBCTemplate",
+			""
 		]
 	},
 
