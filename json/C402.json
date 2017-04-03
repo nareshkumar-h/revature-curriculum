@@ -11,7 +11,8 @@
 			"Setter Injection",
 			"Autowiring",
 			"BeanFactory and Application Context",
-			"Factory method"
+			"Factory method",
+			"CI and SI"
 		
 		
 			
@@ -26,7 +27,9 @@
 			"Creation of Aspects",
 			"Advice,PointCut,JointPoint",
 			"Introduction and mixins",
-			"CI and SI"
+			"AOP proxy,Weaving,TargetObject",
+			
+			
 			
 		]
 	},
@@ -38,7 +41,8 @@
 			"ResultSetExtractor",
 			"RowMapper",
 			"SimpleJDBCTemplate",
-			""
+			"Transaction Management in Spring",
+			"Data Binding"
 		]
 	},
 
@@ -47,7 +51,7 @@
 		"topics": 
 		[
 			"Spring MVC architecture",
-			"MVC Form",
+			"MVC and Multiple Controllers",
 			"MVC CRUD",
 			"Tiles,"
 		]
