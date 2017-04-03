@@ -12,12 +12,7 @@
 			"RestFul WebService",
 			"Building a RESTful Web Service",
 			"Build with Maven"
-
-		
-			
-			
-			
-		]
+			]
 	},
 	{
 		"name": "Working with Spring Boot",
@@ -29,8 +24,7 @@
 			"Spring boot Vs Spring MVC",
 			"RestEnd Points",
 			"PostMan api"
-			
-		]
+			]
 	},
 
 	{
@@ -42,9 +36,6 @@
 			"Spring Expression Language for Integration",
 			"Page-level Authorization",
 			"Method level Security",
-		
-		
-			
 		]
 	},
 
@@ -57,7 +48,6 @@
 			"Configure other authentication features including remember-me, anonymous users, and logout",
 			"Apply authorization constraints to URLs and URL patterns",
                          "Bind authorization roles to user accounts in relational databases"
-			
 		]
 	},
 
@@ -70,7 +60,6 @@
 			"Implementing asynchronous messages with JMS",
 			"Introduction to Microservices",
 			"Building Microservices"
-			
 		]
 	}
 ]
