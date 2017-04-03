@@ -1,33 +1,23 @@
 {
-"title": "Certificate Program in Core Java",
+"title": "DevOPS",
 "modules" :[
 	{
-		"name": "Introduction of Java",
+		"name": "Introduction to DevOps",
 		"topics": 
 		[
-			"What is Java?",
-			"How to get Java",
-			"A First Java Program",
-			"Compiling and Interpreting Applications",
-			"The JDK Directory Structure",
-			"Using Eclipse"
+			"Introduction to DevOps and Continuous Delivery",
+		        "The agile wheel of wheeels",
+			"DevOPS architecture and Resilence",
+			"The need for Source code control",
+			"Setting up a basic Git server",
+			"Installing the Git Review-package"
 		]
 	},
 	{
-		"name": "Programming Basics",
+		"name":"Jenkings Plugin",
 		"topics": 
 		[
-			"Primitive Datatypes",
-			"Declarations",
-			"Numeric Literals",
-			"Character Literals",
-			"Variable Names",
-			"String formatting and Parsing",
-			"String Literals",
-			"Arrays",
-			"Non-Primitive Datatypes",
-			"The Dot Operator",
-			"final keyword"
+			
 		]
 	},
 
@@ -35,11 +25,7 @@
 		"name": "Methods",
 		"topics": 
 		[
-			"Methods",
-			"Defining Methods",
-			"Calling Methods",
-			"Method Parameters Scope",
-			"Static Methods"
+			
 		]
 	},
 
@@ -47,21 +33,9 @@
 		"name": "Operators and Expressions",
 		"topics": 
 		[
-			"Expressions",
-			"Operators and Expressions",
-			"Arithmetic Operators",
-			"Assignment Operator",
-			"Relational Operators",
-			"Logical Operators",
-			"Increment and Decrement Operators",
-			"Operate-Assign Operators (+=, etc.)",
-			"The Conditional Operator",
-			"Implicit Type Conversions",
-			"Operator Precedence",
-			"The Cast Operator",
-			"Strict typing",
-			"Type conversion"
-		]
+			.
+			
+					]
 	},
 
 	{
