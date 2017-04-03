@@ -1,5 +1,5 @@
 {
-"title": "title",
+"title": "Agile Software Development",
 "modules" :[
 	{
 		"name": "Principles of adaptive project framework",
@@ -34,7 +34,7 @@
 		[
 			"DSDM methodology for management of Business",
 			"Adaptation is simple with atern",
-			"Scrum",
+			"Origins of Scrum",
 			"Scrum theory",
 			"Daily Scrum",
 			"Service Design"
@@ -44,9 +44,18 @@
 	},
 
 	{
-		"name": "",
+		"name": "Agile Planning",
 		"topics": 
 		[
+		
+			"Agile Requirements and Estimation",
+	        	"Agile Patterns and Anti-Patterns",
+			"User Stories",
+			"Estimation work",
+			"Story Points and Planning Poker",
+			
+			
+			
 			
 		]
 	},
