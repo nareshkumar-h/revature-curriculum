@@ -63,9 +63,16 @@
 	},
 
 	{
-		"name": "",
+		"name": "Process and Practices",
 		"topics": 
 		[
+			"eXtreme Programming",
+			"Feature Driven Development",
+			"Lean Software Development",
+			"Continuous Integration",
+			"Test Driven Development",
+			"Refactoring",
+			"Incremental Design"
 			
 		]
 	}
