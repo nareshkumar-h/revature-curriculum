@@ -5,29 +5,31 @@
 		"name": "Spring Basics",
 		"topics": 
 		[
+			"Spring Architecture",
+			"Spring Containers",
 			"Dependency injection",
 			"IOC Container",
 			"Constructor Injection",
+			"Spring Bean Definition",
 			"Setter Injection",
-			"Autowiring",
-			"BeanFactory and Application Context",
-			"Factory method",
-			"CI and SI"
+			"Spring Bean Scopes"
+			
 		
 		
 			
 		]
 	},
 	{
-		"name": "Spring AOP",
+		"name": "Spring Configuration",
 		"topics": 
 		[
-			
-			"Basic Of Aspects Oriented Programming",
-			"Creation of Aspects",
-			"Advice,PointCut,JointPoint",
-			"Introduction and mixins",
-			"AOP proxy,Weaving,TargetObject",
+			"Spring java Based Configuration",
+			"Spring Annotation based Configuration",
+			"Spring Bean Life Cycle",
+			"Autowiring",
+			"BeanFactory and Application Context",
+			"Factory method",
+			"CI and SI"
 			
 			
 			
@@ -53,14 +55,22 @@
 			"Spring MVC architecture",
 			"MVC and Multiple Controllers",
 			"MVC CRUD",
-			"Tiles,"
+			"Spring logging with Log4j"
+			"Dispatcher Servlet,Handler Mapping and ViewResolvers"
 		]
 	},
 
 	{
-		"name": "",
+		"name": "Spring AOP",
 		"topics": 
 		[
+			"Basic Of Aspects Oriented Programming",
+			"Creation of Aspects",
+			"Advice,PointCut,JointPoint",
+			"Introduction and mixins",
+			"AOP proxy,Weaving,TargetObject"
+			
+			
 			
 		]
 	}
