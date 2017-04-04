@@ -1,39 +1,73 @@
 {
-"title": "title",
+"title": "SDET",
 "modules" :[
 	{
-		"name": "",
+		"name": "Introduction to SDLC,Agile and SCRUM",
 		"topics": 
 		[
+			
+			"Software Development as Engineering",
+			"Software Development Process",
+			"Software Quality and Risks",
+			"Modelling and UML",
+			"Object Orientation",
+			"SDLC Deliverables"
+		
+			
 			
 		]
 	},
 	{
-		"name": "",
+		"name": "Software Testing Life Cycle",
 		"topics": 
 		[
+			"Different Phases of Testing Life Cycle",
+			"Entry and Exit Criteria for Different Phases",
+			"Manual Testing for Beginners",
+			"Goals of Manual Testing",
+			"Types of Manual Testing",
+			"Myths of Manual Testing",
+			"Manual Testing vs Automation Testing",
+			"Tools to Automate Manual Testing",
+			"Automation Testing and its Advantages",
+			"Test Cases to be Automated",
+			"Automated Testing Process",
+			"Test Tool selection,Define the scope of Automation",
+			"Framework in Automation",
+			"Automation tool Best Practices"
+			
+			
 			
 		]
 	},
 
 	{
-		"name": "",
+		"name": "Defect Life Cycle",
 		"topics": 
 		[
+			
+			"Defects,Bugs or faults in Software",
+			"Different Bug Life Cycle",
+			"Defect Report",
+			
+			
+			
 			
 		]
 	},
 
 	{
-		"name": "",
+		"name": "JIRA Introduction",
 		"topics": 
 		[
+			
+			""
 			
 		]
 	},
 
 	{
-		"name": "",
+		"name": "Defect Reporting Release process and Release Notes",
 		"topics": 
 		[
 			
