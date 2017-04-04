@@ -31,14 +31,14 @@
 	"title": "Agile Development",
 	"semester": 4,
 	"type" : "T",
-	"status": "D"
+	"status": "P"
 },
 {
 	"code": "C402",
 	"title": "Enterprise Programming Fundamentals",
 	"semester": 4,
 	"type" : "T",
-	"status": "D"
+	"status": "P"
 },
 {
 	"code": "C403",
@@ -59,7 +59,7 @@
 	"title": "Advanced Enterprise  Programming",
 	"semester": 5,
 	"type" : "T",
-	"status": "D"
+	"status": "P"
 },
 {
 	"code": "C502",
@@ -108,7 +108,7 @@
 	"title": "DevOPS",
 	"semester": 7,
 	"type" : "T",
-	"status": "D"
+	"status": "P"
 },
 {
 	"code": "C702",
