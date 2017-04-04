@@ -55,7 +55,7 @@
 			"Spring MVC architecture",
 			"MVC and Multiple Controllers",
 			"MVC CRUD",
-			"Spring logging with Log4j"
+			"Spring logging with Log4j",
 			"Dispatcher Servlet,Handler Mapping and ViewResolvers"
 		]
 	},
