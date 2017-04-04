@@ -14,23 +14,41 @@
 		]
 	},
 	{
-		"name":"Jenkings Plugin",
+		"name":"Jenkings Introduction",
 		"topics": 
 		[
+			"Using the Jenkins Build Server",
+			"Installation of Jenkins",
+			"Configure Jenkins",
+			"configure the JDK location",
+			"Jenkins Management",
+			"generate ssh key for Jenkins user",
+			"Managing Jenkins with Github"
 			
 		]
 	},
 
 	{
-		"name": "Methods",
+		"name": "Version Control",
 		"topics": 
 		[
+			"What is Version Control?",
+			"Benefits of Version control",
+			"What is Git?",
+			"Setting up a Repository",
+			"git init,git clone, git config",
+			"Saving changes git git add/git commit/git stash/.gitignore",
+			"Inspecting a Repository",
+			"git status,git log,git remote,git fetch,git push,git pull",
+			"Making a pull Request,commit and push",
+			"compare and create branch",
+			"Centralized workflow,Feature Branch,Workflow,Gitflow Workflow,forking workflow"
 			
 		]
 	},
 
 	{
-		"name": "Operators and Expressions",
+		"name: "",
 		"topics": 
 		[
 			.
@@ -42,200 +60,8 @@
 		"name": "Control Flow Statements",
 		"topics": 
 		[
-			"Statements",
-			"Control Flow Statements",
-			"Data types and Variables",
-			"Conditional (if) Statements",
-			"Adding an else if",
-			"Conditional (switch) Statements",
-			"while and do-while Loops",
-			"for Loops",
-			"A for Loop Diagram",
-			"The continue Statement",
-			"Enhanced for Loop",
-			"The break Statement"
-		]
-	},
-
-	{
-		"name": "Object-Oriented Programming",
-		"topics": 
-		[
-			"Introduction to Object-Oriented Programming",
-			"Classes and Objects",
-			"Fields and Methods",
-			"Encapsulation",
-			"Access Control",
-			"Inheritance",
-			"Polymorphism"
-		]
-	},
-
-	{
-		"name": "Object and Class",
-		"topics": 
-		[
-			"Defining a Class",
-			"Object and Class",
-			"Instance Data and Class Data",
-			"Creating an Object",
-			"Methods",
-			"Constructors",
-			"Access Modifiers",
-			"Encapsulation",
-			"Enum",
-			"Serialization",
-			"Scanner",
-			"Variable Arguments"
-		]
-	},
-
-	{
-		"name": "Using Java Objects",
-		"topics": 
-		[
-			"Printing to the Console",
-			"Using Java Objects",
-			"StringBuilder and StringBuffer",
-			"Printf Format Strings",
-			"Methods and Messages",
-			"toString",
-			"Parameter Passing",
-			"Comparing and Identifying Objects",
-			"Destroying Objects"
-		]
-	},
-
-	{
-		"name": "Inheritance",
-		"topics": 
-		[
-			"Inheritance in Java",
-			"Casting",
-			"Methods Overriding",
-			"Polymorphism",
-			"super keyword",
-			"The Object Class"
-		]
-	},
-
-	{
-		"name": "Packages",
-		"topics": 
-		[
-			"The import Statement",
-			"Static Imports",
-			"CLASSPATH and Import",
-			"Defining Packages",
-			"Package Scope"
-		]
-	},
-
-	{
-		"name": "Interfaces and abstract classes",
-		"topics": 
-		[
-			"Seperating Interface and Implementation",
-			"Interface and Abstract Classes",
-			"Defining Interfaces",
-			"Implementing and Extending Interfaces",
-			"Runnable Threads",
-			"Abstract Classes"
-		]
-	},
-
-	{
-		"name": "Exception Handling",
-		"topics": 
-		[
-			"Exceptions Overview",
-			"Exception Handling",
-			"The Finally Block",
-			"Catching Exceptions",
-			"Exception Methods",
-			"Declaring Exceptions",
-			"Defining and Throwing Exceptions",
-			"Errors and Runtime Exceptions",
-			"Assertions",
-			"try with resources(Java 7)",
-			"Multi catch(Java 7)"
-		]
-	},
-
-	{
-		"name": "Collection Framework",
-		"topics": 
-		[
-			"Collection Framework",
-			"Generics",
-			"Set Implementation Classes",
-			"The Set Interface",
-			"The List Interface",
-			"List Implementation Classes",
-			"The Map Interface",
-			"Map Implementation Classes",
-			"Utility Classes",
-			"Primitive wrapper Classes",
-			"Comparator",
-			"Comparable",
-			"Override hashCode and equals methods",
-			"Parameterized Generics"
-		]
-	},
-
-	{
-		"name": "Threads",
-		"topics": 
-		[
-			"Non-Threaded Applications",
-			"Introducing to Threads",
-			"Creating Threads",
-			"Threaded Applications",
-			"Thread States",
-			"Runnable Threads",
-			"Coordinating Threads",
-			"Interrupting Threads",
-			"Runnable Interface",
-			"ThreadsGroups"
-		]
-	},
-
-	{
-		"name": "Inner Classes",
-		"topics": 
-		[
-			"Inner Classes",
-			"Local Classes",
-			"Member Classes",
-			"Anonymous Classes",
-			"Instance Initializers",
-			"Static Nested Classes"
-		]
-	},
-
-	{
-		"name": "Lambda Built-in Functional Interfaces",
-		"topics": 
-		[
-			"primitive versions of functional Interface",
-			"java.util.function package",
-			"Use binary versions of functional Interface",
-			"Use the UnaryOperator Interface"
-		]
-	},
-
-	{
-		"name": "JDBC",
-		"topics": 
-		[
-			"Creating a Database and tables",
-			"Getting Information from Database",
-			"Connecting a Java program to a Database",
-			"Prepared Statements & Statement Classes in Java",
-			"Inserting, Updating & Deleting Table data",
-			"Obtaining Result Set Information",
-			"Invoke Stored Procedure using Callable Statement"
+			
 		]
 	}
-]
-}
+
+	
