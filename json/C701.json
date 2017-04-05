@@ -60,7 +60,7 @@
 		  "browse for an image in Docker Hub",
 		  "Create your own image and run it in a container",
 	       	 "create an image of your own"
-		]						]
+		]					
 	},
 
 	{
