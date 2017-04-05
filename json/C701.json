@@ -48,8 +48,8 @@
 	},
 
 	{
-		"name: "",
-		"topics": 
+		"name": "Docker Introduction",
+		"topics":
 		[
 	          "what is a Container",
 		  "Docker for Developers",
