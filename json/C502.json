@@ -46,9 +46,13 @@
 		"topics": 
 		[
 			
-			"Defects,Bugs or faults in Software",
-			"Different Bug Life Cycle",
-			"Defect Report",
+			"What is Defect Life Cycle?",
+			"Defect Life Cycle Work flow",
+			"Different states of Defect Life cycle",
+			"What is Delta Release?",
+			"What is Dependency Testing?",
+			"Depth Testing,Destructive Testing",
+			"Development Envirovenment and Types of Development Envirovenment"
 			
 			
 			
@@ -60,8 +64,12 @@
 		"name": "JIRA Introduction",
 		"topics": 
 		[
-			
-			""
+			"Introduction to JIRA and Project Tracking Tool	",
+			"Issues Related in JIRA",
+			"Creating and Working in Subtasks in JIRA",
+			"Managing Issues,Workflow Progress",
+			"Admin aspects of JIRA Test Management Tool",
+			"Using JIRA for managing agile Projects"
 			
 		]
 	},
@@ -70,6 +78,11 @@
 		"name": "Defect Reporting Release process and Release Notes",
 		"topics": 
 		[
+			"Best Practices for Effective Defect Tracking and Reporting",
+			"Match Team Workflow",
+			"Avoid Defect Duplication",
+			"Capture Report Data",
+			"Write Clear,Reproducible defects"
 			
 		]
 	}
