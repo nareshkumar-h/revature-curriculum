@@ -1,0 +1,49 @@
+{
+"title": "BigData with Cloud",
+"modules" :[
+	{
+		"name": "Introduction to AWS Services",
+		"topics": 
+		[
+			"Understand AWS Identity and Access Management",
+			"Understand AWS S3 bucket storage",
+			"Understand AWS CloudFront service",
+			"Understand AWS Route53 service", 
+			"Understand AWS ElasticBeanStalk service",
+			"Understand AWS RDS service"
+		]
+	},
+	{
+		"name": "Advanced AWS Services",
+		"topics": 
+		[
+			"Understand AWS EC2 Service",
+			"Understand AWS ECS Service",
+			"Understand AWS CodeBuild process",
+			"Understand AWS CodePipleline process",
+			"Understand AWS CloudFormation template"
+		]
+	},
+	{
+		"name": "Introduction to Bigdata",
+		"topics": 
+		[
+		"Introduction to Big data and Hadoop Ecosystem","HDFS and YARN", "MapReduce and Scoop"
+		] 
+	},
+	{
+		"name": "Introduction to Hive and Pig",
+		"topics": 
+		[
+			"Basics of Hive and Impala","Working with Hive and Impala", "Types of Data Formats", "Advanced Hive Concept and Data file partioning"
+		]
+	},
+	{
+		"name": "Introduction to Apache Spark",
+		"topics": 
+		[
+			"Basics of Apache Spark", "RDDs in Spark", "Implementations of Spark Applications", "Spart Parallel Processing", "Spark RDD Optimization Techniques", "Spark Algorithm"
+		]
+	}
+]
+}

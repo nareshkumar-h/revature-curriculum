@@ -1,0 +1,26 @@
+<div id="CourseController">
+<header class="post_head" id="title">
+	<h2><a href='#'> {{course.code}} - {{course.title}} </a>
+	<span ng-if="course.reviewed=='Y'">
+		( Approved By : {{course.approvedBy}} ) </i>
+	</span>
+	 </h2>
+</header> 
+<span id="modules" ng-repeat="module in modules">
+<p><font color='blue'> <b> Unit {{$index +1 }}: {{module.name}} </b></font></p>
+<div ng-repeat="topic in module.topics">
+<p>&nbsp;&nbsp;&nbsp;&nbsp;{{topic}}</p>
+</div>
+{{books}}
+<div ng-show="books.length > 0">
+ Books : 
+<ul>
+<li ng-repeat="book in books">
+{{book}}
+</li>
+</ul>
+
+</div>
+</span>
+
+</div>

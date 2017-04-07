@@ -1,0 +1,151 @@
+[{
+	"code": "C301",
+	"title": "Java Programming",
+	"semester": 3,
+	"type" : "T",
+	"status": "P"
+},
+{
+	"code": "C302",
+	"title": "Web and UI Programming",
+	"semester": 3,
+	"type" : "T",
+	"status": "P"
+},
+{
+	"code": "C303",
+	"title": "RevaturePRO - Java Programming",
+	"semester": 3,
+	"type" : "L",
+	"status": "D"
+},
+{
+	"code": "C304",
+	"title": "RevaturePRO - Web and UI Programming",
+	"semester": 3,
+    "type" : "L",
+	"status": "D"
+},
+{
+	"code": "C401",
+	"title": "Agile Development",
+	"semester": 4,
+	"type" : "T",
+	"status": "P"
+},
+{
+	"code": "C402",
+	"title": "Enterprise Programming Fundamentals",
+	"semester": 4,
+	"type" : "T",
+	"status": "P"
+},
+{
+	"code": "C403",
+	"title": "RevaturePRO - Enterprise Programming Fundamentals",
+	"semester": 4,
+	"type" : "L",
+	"status": "D"
+},
+{
+	"code": "C404",
+	"title": "RevaturePRO - NoSQL",
+	"semester": 4,
+	"type" : "L",
+	"status": "D"
+},
+{
+	"code": "C501",
+	"title": "Advanced Enterprise  Programming",
+	"semester": 5,
+	"type" : "T",
+	"status": "P"
+},
+{
+	"code": "C502",
+	"title": "Software Testing",
+	"semester": 5,
+	"type" : "T",
+	"status": "P",
+	"reviewed": "Y",
+	"approvedBy": "Prabhu"
+},
+{
+	"code": "C503",
+	"title": "RevaturePRO - Advanced Enterprise  Programming",
+	"semester": 5,
+	"type" : "L",
+	"status": "D"
+},
+{
+	"code": "C504",
+	"title": "RevaturePRO - Software Testing",
+	"semester": 5,
+	"type" : "L",
+	"status": "D",
+	"books" : ""
+},
+{
+	"code": "C601",
+	"title": "Personality Development",
+	"semester": 6,
+	"type" : "SD",
+	"status": "D"
+},
+{
+	"code": "C602",
+	"title": "Enterprise Project - 1",
+	"semester": 6,
+	"type" : "P",
+	"status": "D"
+},
+{
+	"code": "C603",
+	"title": "Soft Skill -1",
+	"semester": 6,
+	"type" : "SD",
+	"status": "D"
+},
+{
+	"code": "C701",
+	"title": "DevOPS",
+	"semester": 7,
+	"type" : "T",
+	"status": "P"
+},
+{
+	"code": "C702",
+	"title": "Bigdata with Cloud",
+	"semester": 7,
+	"type" : "T",
+	"status": "P"
+},
+{
+	"code": "C703",
+	"title": "RevaturePRO - DevOPS",
+	"semester": 7,
+	"type" : "L",
+	"status": "D"
+},
+{
+	"code": "C704",
+	"title": "RevaturePRO - Bigdata with Cloud",
+	"semester": 7,
+	"type" : "L",
+	"status": "D"
+},
+{
+	"code": "C801",
+	"title": "Soft skill -2",
+	"semester": 8,
+	"type" : "SD",
+	"status": "D"
+},
+
+{
+	"code": "C802",
+	"title": "RevaturePRO - Project Work",
+	"semester": 8,
+	"type" : "P",
+	"status": "D"
+}]

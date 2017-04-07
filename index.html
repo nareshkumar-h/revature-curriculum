@@ -1,0 +1,92 @@
+﻿<!DOCTYPE html>
+<html lang="en" ng-app="myApp">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<title>Revature University</title>
+	<link href="singlepagestyle.css" rel="stylesheet" type="text/css" media="screen" />
+    <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous"/>
+	<script src="js/jquery-2.1.4.min.js" ></script>
+	<script src="js/angular.min.js" ></script>
+	<script src="js/angular-route.min.js"></script>
+	<script src="js/underscore-min.js"></script>
+	<script src="js/app.js"></script>
+    <script src="js/bootstrap.min.js" type="text/javascript" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn"></script>
+        <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+   </head>
+<body ng-app="MainController">
+	<header id="site_head"><!--useful to create the 960px limit-->
+		<div class="header_cont">
+          
+            <nav class="navbar navbar-toggleable-md navbar-light head_nav">
+                <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <a class="navbar-brand" href="#"><img class="brand-logo" src="images/Revature_logo.png" alt="logo" /></a>
+                <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                    <ul class="navbar-nav nav-margin-center">
+                        <li class="nav-item active">
+                            <a class="nav-link" href="#index">Home <span class="sr-only">(current)</span></a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#courses/ALL">All Courses</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#courses/theory">Theory Courses</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#courses/lab">Lab Courses
+                            </a>                          
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#courses/sd">Skill Development Courses
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#courses/project">Projects
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+
+		<!-- <font size="5">Spinsoft Training Academy ( SPINTA )</font> -->
+
+		
+		</div>
+	</header>
+
+	<div id="main_content"><!--useful to create the 960px limit-->
+
+	<!-- 	<section id="last_posts"> --><!--section for recent posts-->
+
+
+			<div class="single_post"><!--single post container-->
+				<article>
+				<div id="section-content" class="art">
+					<!-- <h3> Loading ...</h3> -->
+					<div ng-view></div>
+				</div>
+				</article>
+
+				</div>
+			<!-- <div class="">
+			<article>
+				<div id="section-content" >
+				Books
+				</div>
+				</article>
+
+			</div> -->
+		<footer class="bottom">
+			<p><b>Contact us: </b> <br/></p>
+			<p>Revature</p>
+			<p>Alwarpet, Chennai- 600 062</p>
+			<p>Email to <a href="mailto:ophilia@revature.com"><font color='#961b25'>ophilia@revature.com</font></a></p>
+		</footer>
+	</div>
+
+
+
+</body>
+</html>

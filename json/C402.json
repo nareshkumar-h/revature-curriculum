@@ -1,0 +1,78 @@
+{
+"title": "Enterprise Programming Fundamentals",
+"modules" :[
+	{
+		"name": "Spring Basics",
+		"topics": 
+		[
+			"Spring Architecture",
+			"Spring Containers",
+			"Dependency injection",
+			"IOC Container",
+			"Constructor Injection",
+			"Spring Bean Definition",
+			"Setter Injection",
+			"Spring Bean Scopes"
+			
+		
+		
+			
+		]
+	},
+	{
+		"name": "Spring Configuration",
+		"topics": 
+		[
+			"Spring java Based Configuration",
+			"Spring Annotation based Configuration",
+			"Spring Bean Life Cycle",
+			"Autowiring",
+			"BeanFactory and Application Context",
+			"Factory method",
+			"CI and SI"
+			
+			
+			
+		]
+	},
+
+	{
+		"name": "JdbcTemplate and Spring ORM",
+		"topics": 
+		[
+			"ResultSetExtractor",
+			"RowMapper",
+			"SimpleJDBCTemplate",
+			"Transaction Management in Spring",
+			"Data Binding"
+		]
+	},
+
+	{
+		"name": "Spring Web MVC",
+		"topics": 
+		[
+			"Spring MVC architecture",
+			"MVC and Multiple Controllers",
+			"MVC CRUD",
+			"Spring logging with Log4j",
+			"Dispatcher Servlet,Handler Mapping and ViewResolvers"
+		]
+	},
+
+	{
+		"name": "Spring AOP",
+		"topics": 
+		[
+			"Basic Of Aspects Oriented Programming",
+			"Creation of Aspects",
+			"Advice,PointCut,JointPoint",
+			"Introduction and mixins",
+			"AOP proxy,Weaving,TargetObject"
+			
+			
+			
+		]
+	}
+]
+}

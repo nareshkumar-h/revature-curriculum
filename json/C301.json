@@ -1,0 +1,108 @@
+{
+"title": "Java Programming",
+"modules" :[
+	{
+		"name":"OOPS",
+		"topics": 
+		[
+			"What is Java?",
+			"How to get Java",
+			"A First Java Program",
+			"Compiling and Interpreting Applications",
+			"The JDK Directory Structure",
+			"Using Eclipse",
+			"Object and Class",
+			"Encapsulation",
+			"Inheritance(IS-A)",
+			"Aggregation and Composition(HAS-A)",
+			"Polymorphism",
+			"Abstraction"
+		]
+	},
+	{
+		"name": "Programming Basics",
+		"topics": 
+		[
+			"Primitive Datatypes",
+			"Declarations",
+			"Literals",
+		        "Naming Convention",
+			"Variable and Data Type",
+			"Control Flow Statements",
+			"String formatting and Parsing",
+			"StringBuffer,StringBuilder",
+			"StringTokenizer",
+			"Arrays",
+			"Non-Primitive Datatypes",
+			"Command Line Arguments",
+			"final keyword",
+			"Methods,Defining and Calling methods",
+			"static methods",
+			"toString method",
+			"Casting and instanceOf",
+			"Operator and Expressions"
+		]
+	},
+
+	{
+		"name": "Exception Handling",
+		"topics": 
+		[
+			"Exception Handling : What and Why? ",
+			"try and catch block ",
+			"Multiple catch block",
+			"Custom Exception",
+			"throw and throws keyword",
+			"Exception Handling with Method Overriding"
+		]
+	},
+
+	{
+		"name": "Collections",
+		"topics": 
+		[
+			"Collection Interface",
+			"List ,Set Interfaces and its implementation",
+			"Map Interface and its implementation",
+			"Legacy Collections",
+			"Queue,Deque and Enque and its implementation",
+			"Wrapper classes",
+			"Object Ordering",
+			"Aggregate Operations",
+			"HashTable implementation",
+			"Sorting and Searching,Comparators",
+			"Date ,Time and LocalTime",
+			"Calendar and other Utilities",
+			"Iterator,ListIterator",
+			"SortedSet"
+		]
+	},
+
+	{
+		"name": "Java Database Connectivity",
+		"topics": 
+		[
+			"Jdbc Drivers",
+			"Steps to connect to Database",
+			"Connectivity with Mysql,Oracle",
+			"Connectivity with Access without DSN",
+			"DriverManager",
+                        "Connection interface",
+			"Statement interface",
+			"ResultSet interface",
+			"PreparedStatement",
+			"ResultSetMetaData",
+			"DatabaseMetaData",
+			"Storing image",
+			"Retrieving image",
+			"Storing file",
+			"Retrieving file",
+			"Stored procedures and functions",
+			"Transaction Management",
+			"Batch Processing",
+			"JDBC New Features"
+			
+		]
+	}
+]
+}
