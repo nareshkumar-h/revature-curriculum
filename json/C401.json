@@ -7,7 +7,6 @@
 		[
 			"Iterative Learning Process",
 			"A view of sunk cost effect",
-			"Elements of project",
 			"Scope of management in agile project",
 			"Actions initiated by the project manager",
 			"Agile manifesto"
@@ -27,17 +26,16 @@
 	},
 
 	{
-		"name": "Dynamic System development model",
+		"name": "Scrum Pattern",
 		"topics": 
 		[
-			"DSDM methodology for management of Business",
-			"Adaptation is simple with atern",
+			
 			"Origins of Scrum",
 			"Scrum theory",
 			"Daily Scrum",
 			"Scrum Artifacts",
 			"Roles in Scrum",
-			"Scrum Sprints"
+			"Sprint model"
 			
 		]
 	},
