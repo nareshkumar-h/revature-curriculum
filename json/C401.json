@@ -35,8 +35,9 @@
 			"Origins of Scrum",
 			"Scrum theory",
 			"Daily Scrum",
+			"Scrum Artifacts",
 			"Roles in Scrum",
-			"Service Design"
+			"Scrum Sprints"
 			
 		]
 	},
@@ -51,7 +52,7 @@
 			"User Stories",
 			"Estimation work",
 			"Story Points and Planning Poker",
-			"Scrum Artifacts"
+			
 		
 		]
 	},
@@ -65,7 +66,6 @@
 			"Lean Software Development",
 			"Continuous Integration",
 			"Test Driven Development",
-			"Refactoring",
 			"Incremental Design"
 			
 		]
