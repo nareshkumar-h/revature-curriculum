@@ -37,10 +37,11 @@
 			"Command Line Arguments",
 			"final keyword",
 			"Methods,Defining and Calling methods",
-			"static methods",
+			"static methods,Lambda Expressions",
 			"toString method",
 			"Casting and instanceOf",
-			"Operator and Expressions"
+			"Operator and Expressions",
+			"Functional Interfaces"
 		]
 	},
 
@@ -67,7 +68,7 @@
 			"Legacy Collections",
 			"Queue,Deque and Enque and its implementation",
 			"Wrapper classes",
-			"Object Ordering",
+			"Object Ordering,Streams,Filters",
 			"Aggregate Operations",
 			"HashTable implementation",
 			"Sorting and Searching,Comparators",
