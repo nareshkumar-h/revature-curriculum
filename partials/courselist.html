@@ -9,7 +9,7 @@
     
 <p><b>
     
-    <span ng-if="c.status=='P'"> <a href="#viewcourse/{{c.code}}">{{c.code}}- {{c.title}}  {{c.type =='L' ? '( Lab )' : ''}}</a> </span>
+    <span ng-if="c.status=='P'"> <a href="#viewcourse/{{c.code}}">{{c.code}}- {{c.title}}  {{c.type =='L' ? '( Lab )' : ''}}  (Status :{{c.approved? "Approved": "Pending for Review"}})</a> </span>
 
     <span ng-if="c.status=='D'">  {{c.code}}- {{c.title}}  {{c.type =='L' ? '( Lab )' : ''}}
     
