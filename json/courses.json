@@ -63,10 +63,12 @@
 },
 {
 	"code": "C502",
-	"title": "SDET",
+	"title": "Software Testing",
 	"semester": 5,
 	"type" : "T",
-	"status": "P"
+	"status": "P",
+	"reviewed": "Y",
+	"approvedBy": "Prabhu,Esakki"
 },
 {
 	"code": "C503",
@@ -77,7 +79,7 @@
 },
 {
 	"code": "C504",
-	"title": "RevaturePRO - SDET",
+	"title": "RevaturePRO - Software Testing",
 	"semester": 5,
 	"type" : "L",
 	"status": "D"
