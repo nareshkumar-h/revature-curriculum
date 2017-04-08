@@ -86,7 +86,7 @@
 			"JS DOM,JS JSON,JS Ajax",
 			"JSON Intro,JSON Data Types",
 			"JSON Objects,Arrays,Parse,Stringify",
-			"Type conversion,JS Ajax"
+			"JS Ajax"
 
 			
 
@@ -100,12 +100,10 @@
 		[
 		"What is Responsive Web Design",
 		"Create your own Responsive Web design",
-		"W3.CSS",
 		"Responsive Data Tables",
 		"Responsive charts",
-		"Responsive Images using CSS3",
-		"Design Principles",
-		"UX,UI Design Protocols" 
+		"Responsive Images using CSS3"
+		
 		
 		]
 	}
