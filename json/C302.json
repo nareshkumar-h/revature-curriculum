@@ -29,21 +29,21 @@
 		"topics": 
 		[
 			"CSS Selectors",
-			"Three Ways to Insert CSS",
+			"Three Ways to Insert CSS into HTML",
 			"CSS Borders and Backgrounds", 
-			"CSS Margins CSS Padding CSS Height/Width",
-			"CSS Box Model CSS Outline CSS Text CSS Fonts",
-			"CSS Icons CSS Links CSS Lists CSS Tables CSS Display",
+			"CSS Margins  Padding  Height/Width",
+			" Box Model  Outline  Text  Fonts",
+			" Icons  Links  Lists  Tables  Display",
 			"CSS Max-width  Position  Overflow  Float Inline-block",
-			"CSS Align CSS Combinators CSS Pseudo-class CSS Pseudo-element",
-			"CSS Opacity CSS Navigation Bar CSS Dropdowns",
-			"CSS Tooltips CSS Image Gallery",
-			"CSS Image Sprites CSS Attr Selectors",
+			"CSS Align  Combinators  Pseudo-class  Pseudo-element",
+			"CSS Opacity  Navigation Bar  Dropdowns",
+			"CSS Tooltips  Image Gallery",
+			"CSS Image Sprites Attr Selectors",
 			"CSS Forms Counters",
 			"CSS3 Introduction Rounded Corners Gradients Fonts",
-			"2D Transforms CSS3 3D Transforms CSS3 Transitions",
-			"CSS3 Animations CSS3 Images CSS3 Buttons CSS3 Pagination",
-			"CSS3 Multiple Columns CSS3 User Interface CSS3 Box Sizing"
+			"2D Transforms  3D Transforms  Transitions",
+			"CSS3 Animations  Images  Buttons  Pagination",
+			"CSS3 Multiple Columns  User Interface Box Sizing"
 			
 			
 			
