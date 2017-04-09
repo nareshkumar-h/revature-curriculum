@@ -6,8 +6,7 @@
 		"topics": 
 		[
 			"Introduction to DevOps and Continuous Delivery",
-		        "The agile wheel of wheeels",
-			"DevOPS architecture and Resilence",
+			"DevOPS architecture",
 			"The need for Source code control",
 			"Setting up a basic Git server",
 			"Installing the Git Review-package"
