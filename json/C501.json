@@ -33,7 +33,6 @@
 		[
 			"Why Spring Security",
 			"Maven dependencies",
-			"Spring Expression Language for Integration",
 			"Page-level Authorization",
 			"Method level Security"
 		]
@@ -45,19 +44,16 @@
 		[
 			"Configure Spring Security for HTTP BASIC authentication",
 			"Implement form-based authentication",
-			"Configure other authentication features including remember-me, anonymous users, and logout",
-			"Apply authorization constraints to URLs and URL patterns",
-                         "Bind authorization roles to user accounts in relational databases"
+			"Apply authorization constraints to URLs and URL patterns"
+                         
 		]
 	},
 
 	{
-		"name": "Integrating Spring Application",
+		"name": "Microservices",
 		"topics": 
 		[
-			"Using SpringBoot to build standalone web application and Restful Services",
-			"Secure the Transport layer vias https",
-			"Implementing asynchronous messages with JMS",
+			
 			"Introduction to Microservices",
 			"Building Microservices"
 		]
