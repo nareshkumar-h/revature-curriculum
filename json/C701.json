@@ -47,18 +47,17 @@
 	},
 
 	{
-		"name": "Docker Introduction",
+		"name": "Sonarqube Code Analysis",
 		"topics":
 		[
-	          "what is a Container",
-		  "Docker for Developers",
-		  "Docker for OPS",
-		  "Docker and Security",
-		  "installing Docker software for your platform",
-		  "run a software Image in the container",
-		  "browse for an image in Docker Hub",
-		  "Create your own image and run it in a container",
-	       	 "create an image of your own"
+	          "An Introduction to Sonarqube",
+		  "Why we need Sonarqube?",
+		  "How to use it?",
+		  "Installing the Server",
+		  "installing a plugin",
+		  "Analyzing Source Code",
+		  "Scope of Analysis ,Types of files and data"
+		  
 		]					
 	},
 
