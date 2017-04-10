@@ -65,8 +65,7 @@
 		"name": "AWS Services",
 		"topics": 
 		[
-			"Understand AWS EC2 Service",
-                        "Understand AWS ECS Service",		
+			"Understand AWS EC2 Service",		
                         "Understand AWS CodeBuild process",		
                         "Understand AWS CodePipleline process",		
                         "Understand AWS CloudFormation template"
