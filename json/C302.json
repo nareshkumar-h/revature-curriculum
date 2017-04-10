@@ -54,25 +54,7 @@
 		"name": "JavaScript",
 		"topics": 
 		[
-			"BS Get Started,Grid Basic,Typography",
-			"Tables,Jumbotron,Wells,Alerts,Buttons",
-			"Button Groups,Glyphicons,Badges/Labels",
-			"Progress Bars,Pagination,Pager",
-			"List Groups,Panels,Dropdowns,Collapse",
-			"Tabs/Pills,Navbar,Forms,Inputs,InputSizing",
-			"Media Objects,Carousel,Modal",
-			"Input Sizing,Tool Tip,PopOver,ScrollSpy"
-									
-			
-		]
-	},
-
-	{
-		"name": "BootStrap",
-		"topics": 
-		[
-			
-			"JS Introduction,where To,Output",
+		        "JS Introduction,where To,Output",
          		"Syntax,Statements,Comments,Variables,Operators,Arithmetic",
 			"Assignment,Data types,Functions,Objects,Scope,Events,Strings",
 			"String Methods,Numbers,Number Methods,Math,Random,Dates",
@@ -86,10 +68,25 @@
 			"JS DOM,JS JSON,JS Ajax",
 			"JSON Intro,JSON Data Types",
 			"JSON Objects,Arrays,Parse,Stringify",
-			"JS Ajax"
-
+			"JS Ajax"	
+									
 			
+		]
+	},
 
+	{
+		"name": "BootStrap",
+		"topics": 
+		[
+			"BS Get Started,Grid Basic,Typography",
+			"Tables,Jumbotron,Wells,Alerts,Buttons",
+			"Button Groups,Glyphicons,Badges/Labels",
+			"Progress Bars,Pagination,Pager",
+			"List Groups,Panels,Dropdowns,Collapse",
+			"Tabs/Pills,Navbar,Forms,Inputs,InputSizing",
+			"Media Objects,Carousel,Modal",
+			"Input Sizing,Tool Tip,PopOver,ScrollSpy"
+			
 			
 		]
 	},
