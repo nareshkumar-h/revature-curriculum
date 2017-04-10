@@ -26,7 +26,7 @@ h1, h2, h3 {
 } 
 
 h2 {
-	font-size: 22px;
+	font-size: 16px;
 	line-height: 28px;
 }
 
@@ -249,15 +249,15 @@ header#site_head {
 		
 		div.single_post header h2 {
 			border-bottom: 1px solid #dbdbd4;			
-			margin: 20px;
-			padding-bottom: 20px;
+			margin: 10px;
+			padding-bottom: 10px;
 			text-align: center;
 		}
 		
 		div.single_post p, section#archive p {
 			padding: 0 20px;
-			font-size: 12px;
-			line-height: 30px; //changed from 20
+			font-size: 14px;
+			line-height: 10px; //changed from 20
 		}
 		
 		span.more, span.more_arch {

@@ -1,43 +1,44 @@
 {
-"title": "title",
-"modules" :[
+"title": "C304 - RevaturePRO - Web and UI Programming",
+"tasks" :[
 	{
-		"name": "",
-		"topics": 
-		[
-			
-		]
+		"name": "Use HTML5 features to design forms  "
 	},
 	{
-		"name": "",
-		"topics": 
-		[
-			
-		]
+		"name": "Use Bootstrap CSS to design pages"
 	},
-
 	{
-		"name": "",
-		"topics": 
-		[
-			
-		]
+		"name": "Implement Tabs/Accordion/Modals using Bootstrap"
+	},	
+	{
+		"name": "Create Bootstrap tables"
 	},
-
 	{
-		"name": "",
-		"topics": 
-		[
-			
-		]
+		"name": "Use JQuery to get form values"
 	},
-
 	{
-		"name": "",
-		"topics": 
-		[
-			
-		]
+		"name": "Perform AJAX calls using JQuery"
+	},
+	{
+		"name": "Store data in a JSON (Array, Map) and iterate using for loop"
+	},
+	{
+		"name": "Store and Retreive JSON data in localStorage"
+	},
+	{
+		"name": "Use Application Cache"
+	},
+	{
+		"name": "Develop Responsive Web pages"
+	},	
+	{
+		"name": "Use CDN to cache static assets"
+	},	
+	{
+		"name": "Use npm and bower for frontend assets"
+	},	
+	{
+		"name": "Use Grunt, Gulp  Bootstrap modal dialog"
 	}
 ]
 }

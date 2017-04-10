@@ -1,12 +1,13 @@
 <div id="CourseController">
-<header class="post_head" id="title">
-	<h2><a href='#'> {{course.code}} - {{course.title}} </a>
-	<span ng-if="course.reviewed=='Y'">
+	<header class="post_head" id="title">
+		<h2><a href=''> {{course.code}} - {{course.title}}  {{course.type=='L'? "(Lab)":""}}</a></h2>
+			<!--<span ng-if="course.reviewed=='Y'">
 		( Approved By : {{course.approvedBy}} ) </i>
-	</span>
-	 </h2>
-</header> 
-<span id="modules" ng-repeat="module in modules">
+	</span>-->
+		</h2>
+	</header>
+	<div ng-if="course.type=='T'">
+		<span id="modules" ng-repeat="module in modules">
 <p><font color='blue'> <b> Unit {{$index +1 }}: {{module.name}} </b></font></p>
 <div ng-repeat="topic in module.topics">
 <p>&nbsp;&nbsp;&nbsp;&nbsp;{{topic}}</p>
@@ -22,5 +23,20 @@
 
 </div>
 </span>
+	</div>
+<div ng-if="course.type=='L'">
+	<span ng-if="tasks.length==0">
+		* Lab activities yet to be added.
+	</span>
+<ul>
+<li ng-repeat="task in tasks">
+<p> {{$index+1}}. {{task.name}}</p>
+</li>
+</ul>
+</div>
+</span>
+	</div>
+
+
 
 </div>

@@ -87,13 +87,36 @@ var myApp = angular.module("myApp",['ngRoute']);
         var courseObj = _.where(courses, {"code" : courseCode })[0];
         $scope.course =  courseObj;
 
-		 $http.get(url).then ( function (response) {
-			var data  = response.data;
-			$scope.title = data.title;
-            $scope.courseCode = courseCode;
-			$scope.modules = data.modules;
-		});
+		if ( courseObj.type=='T'){
+			loadCourseModules();
+		}
+		else if (courseObj.type=='L'){
+			loadLabTasks();
+		}	 
+
+		function loadCourseModules(){
+			
+			$http.get(url).then ( function (response) {
+				var data  = response.data;
+					$scope.title = data.title;
+            		$scope.courseCode = courseCode;
+					$scope.modules = data.modules;
+			});
+		}
+
+		function loadLabTasks(){
+			$http.get(url).then ( function (response) {
+				var data  = response.data;
+					$scope.title = data.title;
+            		$scope.courseCode = courseCode;
+					$scope.tasks = data.tasks;
+			});
+			
+		};
 	});
+
+
+
 	myApp.controller("MentorController", function($scope, $http, $route, $routeParams, $location ) {
 
 		console.log("MentorController"  );

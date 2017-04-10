@@ -1,267 +1,32 @@
 {
-"title": "Certificate Program in Core Java",
-"modules" :[
+"title": "C703 - RevaturePRO - DevOPS",
+"tasks" :[
 	{
-		"name": "Introduction of Java",
-		"topics": 
-		[
-			"What is Java?",
-			"How to get Java",
-			"A First Java Program",
-			"Compiling and Interpreting Applications",
-			"The JDK Directory Structure",
-			"Using Eclipse"
-		]
+		"name": "Install Docker in Windows/Ubuntu"
 	},
 	{
-		"name": "Programming Basics",
-		"topics": 
-		[
-			"Primitive Datatypes",
-			"Declarations",
-			"Numeric Literals",
-			"Character Literals",
-			"Variable Names",
-			"String formatting and Parsing",
-			"String Literals",
-			"Arrays",
-			"Non-Primitive Datatypes",
-			"The Dot Operator",
-			"final keyword"
-		]
+		"name": "Practice Docker commands"
 	},
-
 	{
-		"name": "Methods",
-		"topics": 
-		[
-			"Methods",
-			"Defining Methods",
-			"Calling Methods",
-			"Method Parameters Scope",
-			"Static Methods"
-		]
+		"name": "Create Docker Image"
 	},
-
 	{
-		"name": "Operators and Expressions",
-		"topics": 
-		[
-			"Expressions",
-			"Operators and Expressions",
-			"Arithmetic Operators",
-			"Assignment Operator",
-			"Relational Operators",
-			"Logical Operators",
-			"Increment and Decrement Operators",
-			"Operate-Assign Operators (+=, etc.)",
-			"The Conditional Operator",
-			"Implicit Type Conversions",
-			"Operator Precedence",
-			"The Cast Operator",
-			"Strict typing",
-			"Type conversion"
-		]
+		"name": "Build Docker Images using Maven"
 	},
-
 	{
-		"name": "Control Flow Statements",
-		"topics": 
-		[
-			"Statements",
-			"Control Flow Statements",
-			"Data types and Variables",
-			"Conditional (if) Statements",
-			"Adding an else if",
-			"Conditional (switch) Statements",
-			"while and do-while Loops",
-			"for Loops",
-			"A for Loop Diagram",
-			"The continue Statement",
-			"Enhanced for Loop",
-			"The break Statement"
-		]
+		"name": "Install Jenkins in Local and Docker"
 	},
-
 	{
-		"name": "Object-Oriented Programming",
-		"topics": 
-		[
-			"Introduction to Object-Oriented Programming",
-			"Classes and Objects",
-			"Fields and Methods",
-			"Encapsulation",
-			"Access Control",
-			"Inheritance",
-			"Polymorphism"
-		]
+		"name": "Install SonarQube and configure with Maven"
 	},
-
 	{
-		"name": "Object and Class",
-		"topics": 
-		[
-			"Defining a Class",
-			"Object and Class",
-			"Instance Data and Class Data",
-			"Creating an Object",
-			"Methods",
-			"Constructors",
-			"Access Modifiers",
-			"Encapsulation",
-			"Enum",
-			"Serialization",
-			"Scanner",
-			"Variable Arguments"
-		]
+		"name": "Configure AWSCode Build Process"
 	},
-
 	{
-		"name": "Using Java Objects",
-		"topics": 
-		[
-			"Printing to the Console",
-			"Using Java Objects",
-			"StringBuilder and StringBuffer",
-			"Printf Format Strings",
-			"Methods and Messages",
-			"toString",
-			"Parameter Passing",
-			"Comparing and Identifying Objects",
-			"Destroying Objects"
-		]
+		"name": "Configure AWSPipeline Build Process"
 	},
-
 	{
-		"name": "Inheritance",
-		"topics": 
-		[
-			"Inheritance in Java",
-			"Casting",
-			"Methods Overriding",
-			"Polymorphism",
-			"super keyword",
-			"The Object Class"
-		]
-	},
-
-	{
-		"name": "Packages",
-		"topics": 
-		[
-			"The import Statement",
-			"Static Imports",
-			"CLASSPATH and Import",
-			"Defining Packages",
-			"Package Scope"
-		]
-	},
-
-	{
-		"name": "Interfaces and abstract classes",
-		"topics": 
-		[
-			"Seperating Interface and Implementation",
-			"Interface and Abstract Classes",
-			"Defining Interfaces",
-			"Implementing and Extending Interfaces",
-			"Runnable Threads",
-			"Abstract Classes"
-		]
-	},
-
-	{
-		"name": "Exception Handling",
-		"topics": 
-		[
-			"Exceptions Overview",
-			"Exception Handling",
-			"The Finally Block",
-			"Catching Exceptions",
-			"Exception Methods",
-			"Declaring Exceptions",
-			"Defining and Throwing Exceptions",
-			"Errors and Runtime Exceptions",
-			"Assertions",
-			"try with resources(Java 7)",
-			"Multi catch(Java 7)"
-		]
-	},
-
-	{
-		"name": "Collection Framework",
-		"topics": 
-		[
-			"Collection Framework",
-			"Generics",
-			"Set Implementation Classes",
-			"The Set Interface",
-			"The List Interface",
-			"List Implementation Classes",
-			"The Map Interface",
-			"Map Implementation Classes",
-			"Utility Classes",
-			"Primitive wrapper Classes",
-			"Comparator",
-			"Comparable",
-			"Override hashCode and equals methods",
-			"Parameterized Generics"
-		]
-	},
-
-	{
-		"name": "Threads",
-		"topics": 
-		[
-			"Non-Threaded Applications",
-			"Introducing to Threads",
-			"Creating Threads",
-			"Threaded Applications",
-			"Thread States",
-			"Runnable Threads",
-			"Coordinating Threads",
-			"Interrupting Threads",
-			"Runnable Interface",
-			"ThreadsGroups"
-		]
-	},
-
-	{
-		"name": "Inner Classes",
-		"topics": 
-		[
-			"Inner Classes",
-			"Local Classes",
-			"Member Classes",
-			"Anonymous Classes",
-			"Instance Initializers",
-			"Static Nested Classes"
-		]
-	},
-
-	{
-		"name": "Lambda Built-in Functional Interfaces",
-		"topics": 
-		[
-			"primitive versions of functional Interface",
-			"java.util.function package",
-			"Use binary versions of functional Interface",
-			"Use the UnaryOperator Interface"
-		]
-	},
-
-	{
-		"name": "JDBC",
-		"topics": 
-		[
-			"Creating a Database and tables",
-			"Getting Information from Database",
-			"Connecting a Java program to a Database",
-			"Prepared Statements & Statement Classes in Java",
-			"Inserting, Updating & Deleting Table data",
-			"Obtaining Result Set Information",
-			"Invoke Stored Procedure using Callable Statement"
-		]
+		"name": "Automate MySQL DB Backup"
 	}
 ]
 }

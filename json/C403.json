@@ -1,43 +1,35 @@
 {
-"title": "title",
-"modules" :[
+"title": "C403 - RevaturePRO - Enterprise Programming Fundamentals",
+"tasks" :[
 	{
-		"name": "",
-		"topics": 
-		[
-			
-		]
+		"name": "Create a Maven Web App Project"
 	},
 	{
-		"name": "",
-		"topics": 
-		[
-			
-		]
+		"name": "Implement Spring Configuration using Annotations"
 	},
-
 	{
-		"name": "",
-		"topics": 
-		[
-			
-		]
+		"name": "Implement Log4J configuration"
 	},
-
 	{
-		"name": "",
-		"topics": 
-		[
-			
-		]
+		"name": "Implement Spring MVC Controllers"
 	},
-
 	{
-		"name": "",
-		"topics": 
-		[
-			
-		]
+		"name": "Use Spring Stereotype annotations (@Controller, @Repository, @Service, @Component) "
+	},
+	{
+		"name": "Implement DAO methods using Spring JdbcTemplate"
+	},
+	{
+		"name": "Implement Spring AOP"
+	},
+	{
+		"name": "Implement Spring Security API"
+	},
+	{
+		"name": "Configure Spring ORM "
+	},
+	{
+		"name": "Implement CRUD methods using Spring ORM"
 	}
 ]
 }

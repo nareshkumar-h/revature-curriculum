@@ -1,27 +1,28 @@
 <div id="CourseListController">
     <header class="post_head" id="title">
-        <h2><a href='#'> {{title}} </a></h2>
+        <h2><font color='brown'> {{title}} </font></h2>
     </header>
     <span id="modules" ng-repeat="(semno, courses) in courseMap">
-<p><font color='blue'> <b> Semester {{semno}} </b></font></p>
+       <h4> <p><font color='brown'> <b> Semester {{semno}} </b></font></p></h4>
 
-<div ng-repeat="c in courses">
+        <div ng-repeat="c in courses">
     
-<p><b>
+<p>
     
     <span ng-if="c.status=='P'"> 
 	<a href="#viewcourse/{{c.code}}">
 	{{c.code}}- {{c.title}}  {{c.type =='L' ? '( Lab )' : ''}}
-	</a> 
+	</a>
+    <!-- 
 	<span ng-if="c.reviewed=='Y'">
 		<i class='fa fa-check'></i>
-	</span>
-	
+	</span>-->
+    </span>
     <span ng-if="c.status=='D'">  {{c.code}}- {{c.title}}  {{c.type =='L' ? '( Lab )' : ''}}
     
      </span>
 </div>
-</b>
+
 </p>
 </div>
 </div>
