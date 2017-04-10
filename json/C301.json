@@ -2,51 +2,49 @@
 "title": "Java Programming",
 "modules" :[
 	{
-		"name":"OOPS",
+		"name":"Programming Basics",
 		"topics": 
 		[
 			"What is Java?",
-			"How to get Java",
+			"How to Configure Java?",
 			"A First Java Program",
 			"Compiling and Interpreting Applications",
 			"The JDK Directory Structure",
 			"Using Eclipse",
-			"Object and Class",
-			"Encapsulation",
-			"Inheritance(IS-A)",
-			"Aggregation and Composition(HAS-A)",
-			"Polymorphism",
-			"Abstraction"
+			"Primitive Datatypes",
+			"Declarations,Literals,Naming Convention,Variable and Data Type",
+			"Control Flow Statements",
+			"Operator and Expressions",
+			"Input from Keyboard using Scanner",
+			"String formatting and Parsing",
+			"StringBuffer,StringBuilder,StringTokenizer",
+			"Arrays,Non-Primitive Datatypes",
+			"Command Line Arguments",
+			"Methods,Defining and Calling methods",
+			"static methods,Lambda Expressions"
+			
 		]
 	},
 	{
-		"name": "Programming Basics",
+		"name": "OOPS",
 		"topics": 
 		[
-			"Primitive Datatypes",
-			"Declarations",
-			"Literals",
-		        "Naming Convention",
-			"Variable and Data Type",
-			"Control Flow Statements",
-			"String formatting and Parsing",
-			"StringBuffer,StringBuilder",
-			"StringTokenizer",
-			"Arrays",
-			"Non-Primitive Datatypes",
-			"Command Line Arguments",
+			"Object and Class",
+			"Encapsulation",
+			"Inheritance(IS-A)",
+			"Interfaces and Functional Interfaces",
+			"Aggregation and Composition(HAS-A)",
+			"Polymorphism",
+			"Abstraction",
 			"final keyword",
-			"Methods,Defining and Calling methods",
-			"static methods,Lambda Expressions",
 			"toString method",
-			"Casting and instanceOf",
-			"Operator and Expressions",
-			"Functional Interfaces"
+			"Casting and instanceOf"
+			
 		]
 	},
 
 	{
-		"name": "Exception Handling",
+		"name": "Exception Handling and File IO",
 		"topics": 
 		[
 			"Exception Handling : What and Why? ",
@@ -54,7 +52,13 @@
 			"Multiple catch block",
 			"Custom Exception",
 			"throw and throws keyword",
-			"Exception Handling with Method Overriding"
+			"Exception Handling with Method Overriding",
+			"File Input and Output Stream",
+			"ByteArrayOutput Stream and SequenceOutputStream",
+			"BufferedReader and BufferedWriter,PrintWriter",
+			"DataInputStream,DataOutputStream",
+			"StreamTokenizer class",
+			"Compressing and UnCompressing File"
 		]
 	},
 
