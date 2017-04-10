@@ -1,43 +1,35 @@
 {
-"title": "title",
-"modules" :[
+"title": "C503 - RevaturePRO - Advanced Enterprise Programming",
+"tasks" :[
 	{
-		"name": "",
-		"topics": 
-		[
-			
-		]
+		"name": "Create Spring Boot project"
 	},
 	{
-		"name": "",
-		"topics": 
-		[
-			
-		]
+		"name": "Implement REST API methods and use @RestController annotations"
 	},
-
 	{
-		"name": "",
-		"topics": 
-		[
-			
-		]
+		"name": "Apply the naming standards for REST API URI"
 	},
-
 	{
-		"name": "",
-		"topics": 
-		[
-			
-		]
+		"name": "Implement Swagger REST API Documentation"
 	},
-
 	{
-		"name": "",
-		"topics": 
-		[
-			
-		]
+		"name": "Use Jackson API to convert Objects to JSON "
+	},
+	{
+		"name": "Implement Spring HATEOS"
+	},		
+	{
+		"name": "Test REST API using PostMan testing tool"
+	},
+	{
+		"name": "Implement Spring Event Handler API"
+	},	
+	{
+		"name": "Write JUnit test cases for REST API"
+	},
+	{
+		"name": "Implement Spring Security API"
 	}
 ]
 }
