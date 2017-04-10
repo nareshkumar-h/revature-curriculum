@@ -38,7 +38,7 @@
 		"name": "Use npm and bower for frontend assets"
 	},	
 	{
-		"name": "Use Grunt, Gulp  Bootstrap modal dialog"
+		"name": "Use Grunt, Gulp for custom tasks "
 	}
 ]
 }
