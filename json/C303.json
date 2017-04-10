@@ -2,34 +2,37 @@
 "title": "C303 - RevaturePRO - Java Programming",
 "tasks" :[
 	{
-		"name": ""
+		"name": "Write a Program for Encapsulation"
 	},
 	{
-		"name": ""
+		"name": "Implement OOPS concepts"
 	},
 	{
-		"name": ""
+		"name": "Apply Inheritance - Class, Abstract class, Interface,"
 	},
 	{
-		"name": ""
+		"name": "Implement Polymorphism - Method Overloading and Method Overriding"
 	},
 	{
-		"name": ""
+		"name": "Implement Arrays"
 	},
 	{
-		"name": ""
+		"name": "Apply Collections with Generics ( List, ArrayList,Set, Map ,HashMap etc.)"
 	},
 	{
-		"name": ""
+		"name": "Implement Searching and Sorting operations using Collections API"
 	},
 	{
-		"name": ""
+		"name": "Implement Validations and implement exception handling using try/catch/finally block "
 	},
 	{
-		"name": ""
+		"name": "Write JDBC API for CRUD Operations"
 	},
 	{
-		"name": ""
+		"name": "Implement File Read/Write Operations"
+	},
+	{
+		"name": "Implement JUnit Test cases"
 	}
 ]
 }
