@@ -94,7 +94,7 @@
 },
 {
 	"code": "C602",
-	"title": "Enterprise Project - 1",
+	"title": "RevaturePRO - Enterprise Project - 1",
 	"semester": 6,
 	"type" : "P",
 	"status":"D"
@@ -144,7 +144,7 @@
 
 {
 	"code": "C802",
-	"title": "RevaturePRO - Project Work",
+	"title": "RevaturePRO - Enterprise Project - 2",
 	"semester": 8,
 	"type" : "P",
 	"status":"D"
