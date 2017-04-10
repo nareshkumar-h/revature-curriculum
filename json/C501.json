@@ -55,7 +55,11 @@
 		[
 			
 			"Introduction to Microservices",
-			"Building Microservices"
+			"Building Microservices",
+			"How Microservice Architecture Works",
+                        "Comparison between application development approaches",
+                       "The Difference between Web Services and Micro Services",
+                        "Microservice Pros and Cons"
 		]
 	}
 ]
