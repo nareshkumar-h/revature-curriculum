@@ -1,55 +1,36 @@
-{
-"title": "Revature Pro Software Testing (Lab)",
-"modules" :[
-	{
-		"name": "",
-		"topics": 
-		[
-			
-			"understand the requirement and design test procedures and test cases for software testing.",
-			"Creation of test designs, test processes, test cases and test data",
-			"Carry out testing as per the defined procedures",
-			"Define High level Test Cases",
-			"Writing Automated TestCases",
-			"Writing Manual Exploratary TestCases",
-			"Write GUI Smoke Test",
-			"Generate Test Reports"
-			"Installing JIRA and Configuring",
-			"Setting up JIRA Server"
-			
-			
-		]
-	},
-	{
-		"name": "",
-		"topics": 
-		[
-			
-		]
-	},
 
 	{
-		"name": "",
-		"topics": 
-		[
-			
-		]
-	},
-
+"title": "C504 - RevaturePRO - Software Testing",
+"tasks" :[
 	{
-		"name": "",
-		"topics": 
-		[
-			
-		]
+		"name": "understand the requirement and design test procedures and test cases for software testing"
 	},
-
 	{
-		"name": "",
-		"topics": 
-		[
-			
-		]
+		"name": "Creation of test designs, test processes, test cases and test data"
+	},
+	{
+		"name": "Carry out testing as per the defined procedures"
+	},
+	{
+		"name": "Define High level Test Cases"
+	},
+	{
+		"name": "Writing Automated TestCases "
+	},
+	{
+		"name": "Writing Manual Exploratary TestCases"
+	},		
+	{
+		"name": "Write GUI Smoke Test"
+	},
+	{
+		"name": "Generate Test Reports"
+	},	
+	{
+		"name": "Installing JIRA and Configuring"
+	},
+	{
+		"name": "Setting up JIRA Server"
 	}
 ]
 }
