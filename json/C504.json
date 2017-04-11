@@ -1,10 +1,22 @@
 {
-"title": "title",
+"title": "Revature Pro Software Testing (Lab)",
 "modules" :[
 	{
 		"name": "",
 		"topics": 
 		[
+			
+			"understand the requirement and design test procedures and test cases for software testing.",
+			"Creation of test designs, test processes, test cases and test data",
+			"Carry out testing as per the defined procedures",
+			"Define High level Test Cases",
+			"Writing Automated TestCases",
+			"Writing Manual Exploratary TestCases",
+			"Write GUI Smoke Test",
+			"Generate Test Reports"
+			"Installing JIRA and Configuring",
+			"Setting up JIRA Server"
+			
 			
 		]
 	},
