@@ -1,43 +1,33 @@
 {
-"title": "title",
-"modules" :[
+"title": "C404 - RevaturePRO - NoSQL",
+"tasks" :[
 	{
-		"name": "",
-		"topics": 
-		[
-			
-		]
+		"name": "Installing MongoDB a NoSQL DB"
 	},
 	{
-		"name": "",
-		"topics": 
-		[
-			
-		]
+		"name": "Creating Database using NoSQL in MongoDB",
 	},
-
 	{
-		"name": "",
-		"topics": 
-		[
-			
-		]
+		"name": "Insert , update ,Delete document"
 	},
-
 	{
-		"name": "",
-		"topics": 
-		[
-			
-		]
+		"name": "Creating and Dropping Collections"
 	},
-
 	{
-		"name": "",
-		"topics": 
-		[
-			
-		]
+		"name": "Limit Method and Skip method "
+	},
+	{
+		"name": "Sorting using sort() method"
+	},		
+	{
+		"name": "Indexing using ensureIndex()"
+	},
+	{
+		"name": "Aggregation and Replication"
+	},	
+	{
+		"name": "Create Backup and Deployment"
 	}
+	
 ]
 }
