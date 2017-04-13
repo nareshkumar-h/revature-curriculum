@@ -1,5 +1,9 @@
 {
 "title": "Java Programming",
+"course_objectives": 
+["To understand fundamentals of programming such as variables, conditional and iterative execution, methods.",
+ "To acquire the knowledge on object-oriented programming in Java, including defining classes, invoking methods, using class libraries.",
+ "To learn the fundamental aspects of JDBC and get a clear understanding of how it operates."],
 "modules" :[
 	{
 		"name":"Programming Basics",
