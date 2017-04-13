@@ -1,5 +1,9 @@
 {
 "title": "title",
+"course_objectives":
+["To understand the principles of creating an effective web page.",
+" Students should be able to employ advanced design techniques to create high-impact and highly functional web pages."
+],
 "modules" :[
 	{
 		"name": "Web Programming basics with HTML5",

@@ -1,5 +1,8 @@
 {
 "title": "C303 - RevaturePRO - Java Programming",
+"course_objectives": 
+["Ability to write a program to solve specified problems using the Java SDK environment.",
+" To create, debug and run Java programs. To implement the concept of java database connectivity."],
 "tasks" :[
 	{
 		"name": "Write a Program for Encapsulation"
